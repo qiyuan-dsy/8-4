@@ -13,7 +13,7 @@ int main()
     return 0;
 }
 
-void swap(double a,double b)
+void swap(double a,double b)//应该是int
 {
     
 }
