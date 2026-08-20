@@ -8,5 +8,5 @@ int main()
 }
 void f(){
     int a[10];
-    a[10]=0;
+    a[9]=0;
 }
